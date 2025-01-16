@@ -30,4 +30,4 @@ bs=binary_search(l1,0,n,num)
 if bs!=0:
     print("Number found at index ",bs)
 else:
-    print("Number not found")
+    print("Number not found ")
